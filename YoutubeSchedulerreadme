@@ -21,3 +21,4 @@ Here's a summary of what this code does:
     The main function calls createEvents after successful user authorization.
 
 Please ensure that your OAuth application gets verified by Google. Once verified, you can proceed with the authorization process and use this code to create events on Google Calendar.
+Additionally, Firebase, Google APIs and other software needs to be added to make this application work. A bit of troubleshooting is worth the time!
